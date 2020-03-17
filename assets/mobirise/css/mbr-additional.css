@@ -1,0 +1,48 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700);
+
+#msg-box8-0 .mbr-section-title,
+#msg-box8-0 p {
+  color: #fff;
+}
+#header2-0 H3 {
+  text-align: center;
+}
+#header2-0 P {
+  text-align: center;
+}
+#msg-box6-0 .mbr-section-title,
+#msg-box6-0 .lead p {
+  color: #fff;
+}
+#msg-box6-0 H3 {
+  text-align: center;
+}
+#msg-box6-0 P {
+  font-family: 'Roboto Condensed', sans-serif;
+}
+#msg-box5-0 H3 {
+  text-align: center;
+}
+#msg-box5-0 P {
+  text-align: center;
+}
+#content5-0 .mbr-section-title,
+#content5-0 p {
+  color: #fff;
+}
+#content5-0 .mbr-section-title {
+  text-align: center;
+}
+#features1-0 .striped .mbr-cards-col:nth-child(2n+1) {
+  background-color: #2e2e2e;
+}
+#content5-1 .mbr-section-title,
+#content5-1 p {
+  color: #fff;
+}
+#content5-1 .mbr-section-title {
+  text-align: center;
+}
+#content5-1 P {
+  text-align: left;
+}
